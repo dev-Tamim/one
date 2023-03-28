@@ -53,6 +53,9 @@ background-color:#5C6A92;
 /* HEADER END */
 
 /* NAV START  */
+nav ul li a.active{
+color: #282828 !important;
+}
 nav{
     background: #F40404;
     padding: 19px 0 !important;
@@ -519,11 +522,11 @@ footer ul li{
     width: 100%;
     animation: bg 2s;
     -webkit-animation: bg 2s;
-    background-color: #282828;
+    background-color: #F40404;
     z-index: 11;
-}
-.menu_bg ul li a:hover{
-    color: #F40404 !important;
+    box-shadow: -4px 2px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: -4px 2px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: -4px 2px 5px 0px rgba(0,0,0,0.75);
 }
 @keyframes bg{
     0%{
