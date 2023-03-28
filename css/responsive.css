@@ -1,0 +1,306 @@
+@media (max-width: 575.98px) { 
+
+    .header_main{
+        gap: 8px !important;
+    }
+    .header_icon {
+        justify-content: space-between !important;
+        margin-top: 10px !important;
+    }
+
+#banner {
+    padding: 157px 0 172px 0 !important;
+  }
+  
+  #banner h1 {
+    font-size: 40px !important;
+    line-height: 60px !important;
+  }
+  
+#welcome .welcome_text h2 {
+    font-size: 35px !important;
+    line-height: 50px !important;
+    padding-bottom: 20px !important;
+  }
+  .service_text h2 {
+    font-size: 40px !important;
+    line-height: 60px !important;
+}
+.service_text {
+    padding-right: 0 !important;
+    padding-bottom: 20px !important;
+  }
+  
+  .service_button {
+    padding: 47px 0 39px 16px !important;
+  }
+  
+  .service_button h3 {
+    font-size: 30px !important;
+    line-height: 45px !important;
+    margin-bottom: 25px !important;
+  }
+#service2 {
+    padding: 47px 0 39px 0 !important;
+    margin: 20px 0 !important;
+  }
+  
+  .service2_text {
+    padding-left: 0 !important;
+    text-align: center !important;
+    margin-bottom: 41px !important;
+  }
+  
+  .service2_text h2 {
+    font-size: 30px !important;
+    line-height: 45px !important;
+  }
+
+#about {
+    padding: 36px 0  !important;
+  }
+  
+  .about_text {
+     padding: 20px 25px  !important;
+    text-align: center  !important;
+  }
+  
+  .about_button {
+    padding: 50px 0  !important;
+  }
+  #logo img{
+    width: 100%;
+  }
+  #logo{
+    padding: 20px 0 !important;
+  }
+  #contact h2 {
+	font-size: 30px !important;
+	line-height: 54px !important;
+	padding-bottom: 30px !important;
+}
+.footer_logo {
+    padding: 36px 0 50px 0 !important;
+  }
+  
+  footer h3 {
+    padding-top: 0px !important;
+  }
+  
+  .footer_img {
+    padding-bottom: 20px !important;
+  }
+  
+  .footer_bottom {
+    font-size: 13px !important;
+  }
+  div.col-12:nth-child(4) > h3:nth-child(1) {
+    padding-top: 42px !important;
+  }
+  
+
+
+
+
+ }
+
+ @media (min-width: 576px) and (max-width: 767.98px) { 
+    .header_main {
+        gap: 10px !important;
+    }
+  
+  #banner {
+    padding: 157px 0 172px 0 !important;
+  }
+  
+  #banner h1 {
+    font-size: 50px !important;
+    line-height: 75px !important;
+  }
+  
+  #welcome .welcome_text h2 {
+    font-size: 40px !important;
+    line-height: 60px !important;
+    padding-bottom: 20px !important;
+  }
+  
+  .service_text {
+    padding-right: 0px !important;
+  }
+  
+  .service_text h2 {
+    font-size: 50px !important;
+    text-align: center !important;
+  }
+  
+  .service_text p {
+    text-align: center !important;
+    padding-bottom: 20px !important;
+  }
+  
+  .service_button {
+    padding: 47px 0 39px 0px !important; 
+    text-align: center !important;
+  }
+  
+  .service_button h3 {
+    font-size: 30px !important;
+    line-height: 60px !important;
+  }
+  
+  #service2 {
+    padding: 47px 0 39px 0 !important;
+  }
+  
+  .service2_text {
+    text-align: center !important;
+    padding-bottom: 47px !important;
+  }
+  
+  .service2_text h2 {
+    font-size: 30px !important;
+  }
+  .service2_text {
+    padding-left: 0px !important;
+}
+#logo img{
+    width: 100% !important;
+}
+#about {
+    padding: 26px 0 !important;
+  }
+  
+  .about_text {
+    padding: 30px 75px !important;
+  }
+  
+  .about_button {
+    padding: 30px 0 !important;
+  }
+  
+  #logo {
+    padding: 17px 0 !important;
+  }
+  
+  #contact h2 {
+    padding-bottom: 20px !important;
+  }
+  
+
+
+  .footer_logo {
+    padding: 36px 0 50px 0 !important;
+  }
+  
+  footer h3 {
+    padding-top: 0px !important;
+  }
+  
+  .footer_img {
+    padding-bottom: 20px !important;
+  }
+  
+  .footer_bottom {
+    font-size: 13px !important;
+  }
+  div.col-12:nth-child(4) > h3:nth-child(1) {
+    padding-top: 42px !important;
+  }
+  
+
+
+
+
+
+  }
+
+
+  @media (min-width: 768px) and (max-width:991.98px) { 
+
+.service2_text {
+    padding-left: 0  !important;
+  }
+  
+  .service2_text h2 {
+    font-size: 33px !important;
+  }
+  
+  .service_text h2 {
+    font-size: 49px !important;
+  }
+  
+  .service_button h3 {
+    font-size: 32px !important;
+  }
+  #logo img{
+    width: 100%;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   }
+   @media (min-width:992px) and (max-width: 1199.98px) { 
+    .header_main {
+        gap: 18px !important;
+    }
+    .service_text {
+        padding-right: 0 !important;
+    }
+#welcome .welcome_text h2 {
+    font-size: 35px !important;
+    line-height: 50px !important;
+  }
+  
+  .service_text h2 {
+    font-size: 45px !important;
+  }
+  
+  .service_text {
+    padding-right: 0px !important;
+  }
+  
+  
+  #welcome .welcome_text h2 {
+    font-size: 35px !important;
+    line-height: 50px !important;
+  }
+  
+  .service_text h2 {
+    font-size: 50px !important;
+  }
+  
+  .service2_text h2 {
+    font-size: 33px !important;
+  }
+  
+  .about_text h2 {
+    font-size: 29px !important;
+  }
+  
+
+    }
+
+    @media (min-width:1200px) and (max-width: 1399.98px) { 
+        
+        .service_text h2 {
+            font-size: 42px !important;
+        }
+        #welcome .welcome_text h2 {
+            font-size: 43px !important;
+        }
+     }
